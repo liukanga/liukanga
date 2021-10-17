@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me liukang@163.com
+- 📫 How to reach me http://liuziqing.top/
 
 <!---
 liukanga/liukanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
